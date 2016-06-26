@@ -1,0 +1,9 @@
+{
+    "pawn": {
+        "n"    
+    },
+    "rook": {
+        "type": "R",
+        "full": "Toren"
+    }
+}
